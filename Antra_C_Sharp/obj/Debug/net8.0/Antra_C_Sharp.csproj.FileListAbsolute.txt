@@ -1,0 +1,14 @@
+D:\Antra\C\Antra_C_Sharp\Antra_C_Sharp\bin\Debug\net8.0\Antra_C_Sharp.exe
+D:\Antra\C\Antra_C_Sharp\Antra_C_Sharp\bin\Debug\net8.0\Antra_C_Sharp.deps.json
+D:\Antra\C\Antra_C_Sharp\Antra_C_Sharp\bin\Debug\net8.0\Antra_C_Sharp.runtimeconfig.json
+D:\Antra\C\Antra_C_Sharp\Antra_C_Sharp\bin\Debug\net8.0\Antra_C_Sharp.dll
+D:\Antra\C\Antra_C_Sharp\Antra_C_Sharp\bin\Debug\net8.0\Antra_C_Sharp.pdb
+D:\Antra\C\Antra_C_Sharp\Antra_C_Sharp\obj\Debug\net8.0\Antra_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C\Antra_C_Sharp\Antra_C_Sharp\obj\Debug\net8.0\Antra_C_Sharp.AssemblyInfoInputs.cache
+D:\Antra\C\Antra_C_Sharp\Antra_C_Sharp\obj\Debug\net8.0\Antra_C_Sharp.AssemblyInfo.cs
+D:\Antra\C\Antra_C_Sharp\Antra_C_Sharp\obj\Debug\net8.0\Antra_C_Sharp.csproj.CoreCompileInputs.cache
+D:\Antra\C\Antra_C_Sharp\Antra_C_Sharp\obj\Debug\net8.0\Antra_C_Sharp.dll
+D:\Antra\C\Antra_C_Sharp\Antra_C_Sharp\obj\Debug\net8.0\refint\Antra_C_Sharp.dll
+D:\Antra\C\Antra_C_Sharp\Antra_C_Sharp\obj\Debug\net8.0\Antra_C_Sharp.pdb
+D:\Antra\C\Antra_C_Sharp\Antra_C_Sharp\obj\Debug\net8.0\Antra_C_Sharp.genruntimeconfig.cache
+D:\Antra\C\Antra_C_Sharp\Antra_C_Sharp\obj\Debug\net8.0\ref\Antra_C_Sharp.dll

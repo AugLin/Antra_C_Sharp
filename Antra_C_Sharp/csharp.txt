@@ -1,0 +1,80 @@
+﻿Categories of types
+Built in types
+    Signed Types : Represent both positive and negative numbers; +/-
+    Unsigned Types : Represent only positive number including 0; +
+    
+    
+User Defined Types
+    - Class
+    - Enum
+    - Interface
+    - Delegate
+    
+Value Type
+
+Reference Type
+
+Difference
+    1. Value type will hold the actual value while the reference type will hold the memory address or reference of that value
+    2. Value type is stored in the stack memory but reference type is stored in the heap memory
+    3. Value type will not be collected by garbage collector but reference type will be collected by garbage collector.
+    4. Value type is created by struct or enum while reference type is created by class, interface, delegate or array.
+    5. Value type can not accept null value while reference type can accept null values.
+    
+CLR: Common Language Runtime
+
+Heap Memory:    Generation 0, 1, 2 (Only for Managed Heap)
+                1. Managed Heap - Organized by garbage collector
+                2. Unmanaged Heap - Dispose() method if IDisposable interface.
+
+String is immutable - Can not change any value in the string, but we can assign string a new value
+StringBuilder - Will cause extra memory in the heap and mutable of string
+Difference
+    1. 
+When?
+    1. When storing sensitive data we can use String
+    2. 
+
+Enum: Value type enumeration, named value constant. Immutable and read only variables.
+
+Method Syntax:
+[Access Modifiers] Return Type MethodName (Parameters)
+{
+    Code goes here
+}
+
+Access Modifiers
+    - Public
+        - Members can be accessed anywhere
+    - Private
+        - Members can be accessed with in a current class only.
+    - Protected
+        - Members can be accessed in a current class and children class.
+    - Internal
+        - Members can be accessed in the current assembly.
+
+A project when compiled becomes an assembly which later becomes an exe or dll files.
+
+Boxing and Unboxing *
+    - Boxing is the operation to convert value type to the reference type/ object type
+    - Unboxing is the operation to convert reference type/ object type. Convert stack to heap
+
+Modes of Parameters Passing
+    - Pass by value
+        - Copy of the actual parameter is created and passed to the formal parameter. Default
+    - Pass by reference
+        - The reference of the actual parameters is passed to the formal parameter so that any changes in the 
+            formal parameters will also reflect in the actual parameters
+    - Optional Parameters
+        - they allow you to define default value for method parameters. Note the optional params must appear
+            at the end of the parameter.
+    - Out Mode
+        - When you want to return more than one value from a single method, use out mode.
+    - Params
+        - Parameters of the same type but with the variable length.
+        
+Reference vs OUT *
+    - For reference we have to initialize the value first while OUT does not necessarily to initialize the value first.
+    - Both are pass by reference since both of them will change the value of the actual variable
+
+
