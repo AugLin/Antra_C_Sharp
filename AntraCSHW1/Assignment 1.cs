@@ -302,3 +302,71 @@ for (int i = 0; i < 24; i += increment)
     Console.Write($"{i}, ");
 }
 Console.WriteLine($"24");
+
+using System;
+using AntraCSHW1;
+Assignment2 demo = new Assignment2();
+demo.PracticeArray();
+
+int start = 10;
+int end = 100;
+int[] primes = demo.FindPrimesInRange(start, end);
+
+Console.WriteLine($"Prime numbers between {start} and {end}:");
+Console.WriteLine(string.Join(", ", primes));
+
+// Task 4
+
+int[] array = [3, 2, 4, -1];
+int rotation = 2;
+int [] result = demo.task4(array, rotation);
+
+int[] array2 = [1, 2, 3, 4, 5];
+int rotation2 = 3;
+int [] result2 = demo.task4(array2, rotation2);
+
+Console.WriteLine(string.Join(" ", result));
+Console.WriteLine(string.Join(" ", result2));
+
+// task 5
+int[] array1 = [2, 1, 1, 2, 3, 3, 2, 2, 2, 1];
+int[] array2 = [1, 1, 1, 2, 3, 1, 3, 3];
+int[] array3 = [4, 4, 4, 4];
+int[] array4 = [0, 1, 1, 5, 2, 2, 6, 3, 3];
+int [] result1 = demo.task5(array1);
+int [] result2 = demo.task5(array2);
+int [] result3 = demo.task5(array3);
+int [] result4 = demo.task5(array4);
+Console.WriteLine(string.Join(" ", result1));
+Console.WriteLine(string.Join(" ", result2));
+Console.WriteLine(string.Join(" ", result3));
+Console.WriteLine(string.Join(" ", result4)); 
+
+int[] array1 = [4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3];
+int[] array2 = [7, 7, 7, 0, 2, 2, 2, 0, 10, 10, 10];
+
+
+Console.WriteLine(demo.task7(array1));
+Console.WriteLine(demo.task7(array2));
+string s1 = "sample";
+string s2 = "24tvcoi92";
+Console.WriteLine(demo.StringTask1(s1));
+Console.WriteLine(demo.StringTask1(s2));
+Console.WriteLine(demo.StringTask1_Approach2(s1));
+Console.WriteLine(demo.StringTask1_Approach2(s2));
+
+string s3 = "C# is not C++, and PHP is not Delphi!";
+string s4 = "The quick brown fox jumps over the lazy dog /Yes! Really!!!/.";
+Console.WriteLine(demo.StringTask2(s3));
+Console.WriteLine(demo.StringTask2(s4));
+
+String s5 = "Hi,exe? ABBA! Hog fully a string: ExE. Bob";
+Console.WriteLine(demo.StringTask3(s5));
+String u1 = "https://www.google.com";
+String u2 = "https://www.example.com/employee";
+String u3 = "https://www.apple.com/iphone";
+String u4 = "www.apple.com";
+demo.StringTask4(u1);
+demo.StringTask4(u2);
+demo.StringTask4(u3);
+demo.StringTask4(u4);

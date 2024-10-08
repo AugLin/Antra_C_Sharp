@@ -12,3 +12,4 @@ D:\Antra\C\Antra_C_Sharp\AntraCSHW1\obj\Debug\net8.0\refint\AntraCSHW1.dll
 D:\Antra\C\Antra_C_Sharp\AntraCSHW1\obj\Debug\net8.0\AntraCSHW1.pdb
 D:\Antra\C\Antra_C_Sharp\AntraCSHW1\obj\Debug\net8.0\AntraCSHW1.genruntimeconfig.cache
 D:\Antra\C\Antra_C_Sharp\AntraCSHW1\obj\Debug\net8.0\ref\AntraCSHW1.dll
+D:\Antra\C\Antra_C_Sharp\AntraCSHW1\obj\Debug\net8.0\AntraCSHW1.sourcelink.json
