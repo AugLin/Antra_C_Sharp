@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Antra_C_Sharp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AntraDay2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b6f0d8c62f7e0a76c55d456a488247c3b1b6082")]
-[assembly: System.Reflection.AssemblyProductAttribute("Antra_C_Sharp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Antra_C_Sharp")]
+[assembly: System.Reflection.AssemblyProductAttribute("AntraDay2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AntraDay2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

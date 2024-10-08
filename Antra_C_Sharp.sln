@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antra_C_Sharp", "Antra_C_Sh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntraCSHW1", "AntraCSHW1\AntraCSHW1.csproj", "{9448D142-E084-40F9-A60D-1EF36846444B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntraDay2", "AntraDay2\AntraDay2.csproj", "{A1A85166-0A6E-4095-A977-316B5F82091D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbtraCSHW2", "AbtraCSHW2\AbtraCSHW2.csproj", "{6189622B-751B-477B-B307-1715536FB054}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{9448D142-E084-40F9-A60D-1EF36846444B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9448D142-E084-40F9-A60D-1EF36846444B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9448D142-E084-40F9-A60D-1EF36846444B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A85166-0A6E-4095-A977-316B5F82091D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A85166-0A6E-4095-A977-316B5F82091D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A85166-0A6E-4095-A977-316B5F82091D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A85166-0A6E-4095-A977-316B5F82091D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6189622B-751B-477B-B307-1715536FB054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6189622B-751B-477B-B307-1715536FB054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6189622B-751B-477B-B307-1715536FB054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6189622B-751B-477B-B307-1715536FB054}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

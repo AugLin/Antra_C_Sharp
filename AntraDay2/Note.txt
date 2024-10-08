@@ -1,0 +1,92 @@
+﻿Why OOP
+    - Write clean code
+    - Defend our code against errors
+    - Build API or .NET Applications
+    
+Objects and Class
+    - Class is blueprint that create an object
+    
+Encapsulation *
+    1.  OOP Principle
+    2.  Hide data implementation
+    3.  Flexibility on read only or write only
+
+We can use private for setter method. This means we can only use builder class to construct the object.
+
+Constructor *
+    1.  It is a special method that shares the same name of the class and does not have any return type
+        , not even void
+    2.  It is used to create an object/instance of the class and initialize the class members.
+    3.  If there is not constructor in the class, c# compiler will provide a default constructor and it is
+        parameterless.
+    4.  Constructor can be overloaded.
+    5.  Constructor can not be inherited. So a constructor can not be overriden.
+    6.  By default, derived class constructor will make a call to the base class constructor.
+    
+    
+Inheritance*: Allows one class to inherit from another existing class so that the derived class can reuse,
+                extend and modify the code we have in the derived class.
+
+
+Employee Management System
+Full Time - Biweekly pay, benefit
+Part Time - Hourly Rate
+
+In Common: Id, Name, Email, Phone, Address; Perform Work
+
+In C# we can only a single inheritance.
+
+Abstract class: is the class that can not create any objects in it. Can contain both abstract and concrete methods
+
+Sealed class - a class that can not have any child classes
+
+Polymorphism: multiple forms
+    1.  Method overriding 
+        Happens between base class and derived class, same method signature including the access modifier,
+        method name, and input/output parameters.
+    2.  Method overloading
+        Multiple methods in the same class that has same access modifier, same method name but different input/output
+        parameters
+
+Static: 
+    1. Members belongs to the class itself instead of any instance
+    2. All the member should be static
+    
+    
+Static class and sealed class *
+    1.  Both can not be inherited
+    2.  Seal class can have instances but static class can not be instantiated.
+    3.  Seal class can have both static and non-static method but static class can only contain static.
+    
+Static class and Abstract class
+    1.  Both can not be instantiated.
+    2.  Abstract class should be inherited while static class can not be inherited.
+    3.  Abstract class can contain both static and non-static while static class only allows static methods.
+
+Use case of Static class:
+    1.  Use case of static class is it will provide utilities
+    2.  Create extension method.
+    3.  Database configuration. EX: db name, server name, port number, connection strings.
+    4.  Design patterns: Singleton
+    
+Extension Method *
+    -   Allows to add additional functionalities to the existing type without modifying, deriving or recompiling the original class.
+
+Syntax of creating extension methods *:
+    1.  The class that contains extension method must be a static class.
+    2.  The method itself must be extension method.
+    3.  First parameter of the extension method must be the type which will be extended.
+    4.  First parameter must be written after 'this' keyword.
+    
+
+SOLID Principle *
+    O: Open/Closed Principle - Objects/entities should be open for extension but close for modification
+    
+    
+Built-In extension methods: LINQ stands for Language, Integrated Query
+
+Casing Technique:
+    1.  Pascal Casing: First letter of each word of an Identifier must be in Uppercase and Remaining letters can be lower case
+        - Use for class, method, interfaces, namespaces, properties, delegates, etc
+    2.  Camel casing: First word, first word will be lower case and remaining words follows pascal casing.
+        - Use for Variables, objects

@@ -1,0 +1,15 @@
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\bin\Debug\net8.0\AbtraCSHW2.exe
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\bin\Debug\net8.0\AbtraCSHW2.deps.json
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\bin\Debug\net8.0\AbtraCSHW2.runtimeconfig.json
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\bin\Debug\net8.0\AbtraCSHW2.dll
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\bin\Debug\net8.0\AbtraCSHW2.pdb
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\obj\Debug\net8.0\AbtraCSHW2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\obj\Debug\net8.0\AbtraCSHW2.AssemblyInfoInputs.cache
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\obj\Debug\net8.0\AbtraCSHW2.AssemblyInfo.cs
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\obj\Debug\net8.0\AbtraCSHW2.csproj.CoreCompileInputs.cache
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\obj\Debug\net8.0\AbtraCSHW2.sourcelink.json
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\obj\Debug\net8.0\AbtraCSHW2.dll
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\obj\Debug\net8.0\refint\AbtraCSHW2.dll
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\obj\Debug\net8.0\AbtraCSHW2.pdb
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\obj\Debug\net8.0\AbtraCSHW2.genruntimeconfig.cache
+D:\Antra\C\Antra_C_Sharp\AbtraCSHW2\obj\Debug\net8.0\ref\AbtraCSHW2.dll

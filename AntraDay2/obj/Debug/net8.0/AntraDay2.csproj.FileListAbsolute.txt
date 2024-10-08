@@ -1,0 +1,15 @@
+D:\Antra\C\Antra_C_Sharp\AntraDay2\bin\Debug\net8.0\AntraDay2.exe
+D:\Antra\C\Antra_C_Sharp\AntraDay2\bin\Debug\net8.0\AntraDay2.deps.json
+D:\Antra\C\Antra_C_Sharp\AntraDay2\bin\Debug\net8.0\AntraDay2.runtimeconfig.json
+D:\Antra\C\Antra_C_Sharp\AntraDay2\bin\Debug\net8.0\AntraDay2.dll
+D:\Antra\C\Antra_C_Sharp\AntraDay2\bin\Debug\net8.0\AntraDay2.pdb
+D:\Antra\C\Antra_C_Sharp\AntraDay2\obj\Debug\net8.0\AntraDay2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C\Antra_C_Sharp\AntraDay2\obj\Debug\net8.0\AntraDay2.AssemblyInfoInputs.cache
+D:\Antra\C\Antra_C_Sharp\AntraDay2\obj\Debug\net8.0\AntraDay2.AssemblyInfo.cs
+D:\Antra\C\Antra_C_Sharp\AntraDay2\obj\Debug\net8.0\AntraDay2.csproj.CoreCompileInputs.cache
+D:\Antra\C\Antra_C_Sharp\AntraDay2\obj\Debug\net8.0\AntraDay2.sourcelink.json
+D:\Antra\C\Antra_C_Sharp\AntraDay2\obj\Debug\net8.0\AntraDay2.dll
+D:\Antra\C\Antra_C_Sharp\AntraDay2\obj\Debug\net8.0\refint\AntraDay2.dll
+D:\Antra\C\Antra_C_Sharp\AntraDay2\obj\Debug\net8.0\AntraDay2.pdb
+D:\Antra\C\Antra_C_Sharp\AntraDay2\obj\Debug\net8.0\AntraDay2.genruntimeconfig.cache
+D:\Antra\C\Antra_C_Sharp\AntraDay2\obj\Debug\net8.0\ref\AntraDay2.dll
