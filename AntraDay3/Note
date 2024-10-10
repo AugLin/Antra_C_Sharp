@@ -1,0 +1,56 @@
+﻿--  Dry Principle - Do not Repeat your Self
+
+--  Object is the base type of all types in C# *
+    -   Parent class of all types
+    -   Reason not to use object as input parameter
+        1.  Loss type safety
+        2.  Unwanted Boxing and Unboxing
+        
+Generics * - Allows us to design classes or methods but defer the specification of types until the class or method is declared or called.
+            - Value Type: struct, enum
+            - Reference Type: Class, Object
+
+Use case of Generics - Interfaces
+
+Interface
+    1.  Interface is a collection of methods which are by default abstract and public and will be implemented by the 
+    2.  One class can implement multiple interfaces.
+    3.  Interfaces can not be instantiated
+    4.  Interface is helpful in writing loosely coupled code.
+    
+Abstract class vs Interface *
+    1.  Abstract class will provide base class to its subclasses. Is a wise choice when we have clear hierarchy relationship.
+        Interface will define common behaviours and functionalities that can be implemented by any class.
+    2.  One class can only inherit from one abstract or concrete class but one class can implement multiple interfaces.
+    3.  Methods in abstract class can be abstract method or non-abstract method. But methods in an interface are public
+        abstract by default.
+        
+SOLID Principles *
+    1.  S: Single Responsibility Principle: A class should have only one reason to change.
+        Layers
+            1. Controller Layers/ Web Layer: Handle request or response, validation, security check.
+            2. Service Layer/ Business Layer: Deals with business logic.
+            3. Data Layer/ Repository Layer: Interaction to the Database.
+            4. Other classes
+                - Utilities class: Converting data types
+                - Helper classes: Factory
+                - Entity classes: 
+                - Constants
+                
+    2.  O: Open/Close: Software entities like classes, modules, functions, etc. should be open for extension but
+                        close for modification.
+            - Use extension methods or inheritance
+    3.  L:  Liskov Substitution Principle: Derived classes should be substitutable for their base type.
+    4.  I:  Interface Segregation Principle: Client should not be forced to depend on interfaces they do not use.
+    5.  D:  Dependency Inversion Principle: Depend on abstraction instead of concrete classes. It will helps us to achieve
+            loosely coupled code. High level module should not depend on low level modules instead both should depend on abstraction.
+            
+Collection: 
+    1.  Non-Generic Collection: Systems.Collections. Take objects, 
+    2.  Generic Collection: Systems.Collections.Generic. 
+Advantage of Generic Collection
+    1.  Type safety
+    2.  Better performance: Removes boxing and unboxing
+    3.  Flexibility: 
+    4.  Maintainability: 
+    

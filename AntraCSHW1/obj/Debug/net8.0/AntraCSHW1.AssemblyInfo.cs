@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AntraCSHW1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b6f0d8c62f7e0a76c55d456a488247c3b1b6082")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97f9ceac2232cc50bd03fe8bb90394e26600094f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AntraCSHW1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AntraCSHW1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
