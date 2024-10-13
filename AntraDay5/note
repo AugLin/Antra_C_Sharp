@@ -1,0 +1,34 @@
+﻿LINQ: Language Integrated Query and its a SQL like Syntax to help us talk to different data source.
+
+In memory data source: Data temporarily stored in our application; List, Array
+Out of memory data source: Database
+
+Data Providers with LINQ
+
+    1. LINQ to Objects: In memory data source like list or array, etc; the return type is going to be IEnumerable
+    2. LINQ to Database: Work with ADO.Net
+    3. LINQ to SQL: Talk to SQL server database
+    4. LINQ to Entities: Talk to other SQL db, entity framework as ORM - the return type is IQueryable
+    
+LINQ is also a bunch of extension methods that provides multiple Query expressions on IEnumerable<T> interface.
+
+****
+First: Will return the first record when there is one or more matching value found and if no matching value found,
+    it will throw an exception.
+    
+FirstOrDefault: Will return the first record when there is one or more matching value found and if no matching value found,
+                    it will assign null;
+                    
+Single: Will return the record when there is one and only one record matching value found. If no value found it will 
+            Throw an exception.
+            
+SingleOrDefault: Will return the record when there is one and only one record matching value found. If no value found it will 
+                     assign null.
+            
+Use case
+    1. Use SingleOrDefault if searching on Unique Key or Primary Key
+    
+Quantifier Operator *                    
+    1. Any(): Checks if any elements satisfy the specific condition. If yes return true
+    2. All(): Check all elements satisfy the specific condition, if yes return true.
+    

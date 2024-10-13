@@ -1,0 +1,15 @@
+D:\Antra\C\Antra_C_Sharp\AntraDay4\bin\Debug\net8.0\AntraDay4.exe
+D:\Antra\C\Antra_C_Sharp\AntraDay4\bin\Debug\net8.0\AntraDay4.deps.json
+D:\Antra\C\Antra_C_Sharp\AntraDay4\bin\Debug\net8.0\AntraDay4.runtimeconfig.json
+D:\Antra\C\Antra_C_Sharp\AntraDay4\bin\Debug\net8.0\AntraDay4.dll
+D:\Antra\C\Antra_C_Sharp\AntraDay4\bin\Debug\net8.0\AntraDay4.pdb
+D:\Antra\C\Antra_C_Sharp\AntraDay4\obj\Debug\net8.0\AntraDay4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C\Antra_C_Sharp\AntraDay4\obj\Debug\net8.0\AntraDay4.AssemblyInfoInputs.cache
+D:\Antra\C\Antra_C_Sharp\AntraDay4\obj\Debug\net8.0\AntraDay4.AssemblyInfo.cs
+D:\Antra\C\Antra_C_Sharp\AntraDay4\obj\Debug\net8.0\AntraDay4.csproj.CoreCompileInputs.cache
+D:\Antra\C\Antra_C_Sharp\AntraDay4\obj\Debug\net8.0\AntraDay4.sourcelink.json
+D:\Antra\C\Antra_C_Sharp\AntraDay4\obj\Debug\net8.0\AntraDay4.dll
+D:\Antra\C\Antra_C_Sharp\AntraDay4\obj\Debug\net8.0\refint\AntraDay4.dll
+D:\Antra\C\Antra_C_Sharp\AntraDay4\obj\Debug\net8.0\AntraDay4.pdb
+D:\Antra\C\Antra_C_Sharp\AntraDay4\obj\Debug\net8.0\AntraDay4.genruntimeconfig.cache
+D:\Antra\C\Antra_C_Sharp\AntraDay4\obj\Debug\net8.0\ref\AntraDay4.dll
