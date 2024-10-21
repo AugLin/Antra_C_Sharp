@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AntraDay2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbe42157a2fc38937d50a26fa36a67e7f42b7ab0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cd0495f9bbd7619cf5c7ef7b609005d627312f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AntraDay2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AntraDay2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

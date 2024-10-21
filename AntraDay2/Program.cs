@@ -1,26 +1,31 @@
 ﻿using AntraDay2;
 
-Customer c1 = new Customer("Smith", 1, "Smith@gmail.com");
-Console.WriteLine(c1.CustomerName);
-
-Customer c2 = new Customer();
-
-Customer c3 = new Customer("Smith", 1, "Smith@gmail.com", "1234567890");
-Console.WriteLine($"The phone number for third customer is {c3.Phone}");
-
-// FullTimeEmployee fte = new FullTimeEmployee();
-// fte.PerformWork();
+// Customer c1 = new Customer("Smith", 1, "Smith@gmail.com");
+// Console.WriteLine(c1.CustomerName);
 //
-// PartTimeEmployee pte = new PartTimeEmployee();
-// pte.PerformWork();
+// Customer c2 = new Customer();
 //
-// Manager m = new Manager();
-// m.AttendMeeting();
+// Customer c3 = new Customer("Smith", 1, "Smith@gmail.com", "1234567890");
+// Console.WriteLine($"The phone number for third customer is {c3.Phone}");
+//
+// // FullTimeEmployee fte = new FullTimeEmployee();
+// // fte.PerformWork();
+// //
+// // PartTimeEmployee pte = new PartTimeEmployee();
+// // pte.PerformWork();
+// //
+// // Manager m = new Manager();
+// // m.AttendMeeting();
+//
+// // Addition addition = new Addition();
+// // Console.WriteLine(addition.AddNumbers(1, 2));
+// // Console.WriteLine(addition.AddNumbers(1.3, 2.2));
+//
+// Addition.AddNumbers(1, 2);
+//
+// Console.WriteLine(18.OddOrEven());
 
-// Addition addition = new Addition();
-// Console.WriteLine(addition.AddNumbers(1, 2));
-// Console.WriteLine(addition.AddNumbers(1.3, 2.2));
-
-Addition.AddNumbers(1, 2);
-
-Console.WriteLine(18.OddOrEven());
+BaseClass bc = new BaseClass();
+bc.m1();
+bc.m2();
+bc.m3();
