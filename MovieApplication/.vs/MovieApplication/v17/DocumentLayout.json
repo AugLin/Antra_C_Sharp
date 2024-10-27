@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A53FD6E-95FF-4361-B9EB-0331F63AF623}|Core\\Core.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\core\\contract\\repositories\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A53FD6E-95FF-4361-B9EB-0331F63AF623}|Core\\Core.csproj|solutionrelative:core\\contract\\repositories\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A53FD6E-95FF-4361-B9EB-0331F63AF623}|Core\\Core.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\core\\contract\\services\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A53FD6E-95FF-4361-B9EB-0331F63AF623}|Core\\Core.csproj|solutionrelative:core\\contract\\services\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD09538-5DE7-4239-AAED-BC39DC78AAE1}|Infrastructure\\Infrastructure.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD09538-5DE7-4239-AAED-BC39DC78AAE1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A53FD6E-95FF-4361-B9EB-0331F63AF623}|Core\\Core.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\core\\contract\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A53FD6E-95FF-4361-B9EB-0331F63AF623}|Core\\Core.csproj|solutionrelative:core\\contract\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A53FD6E-95FF-4361-B9EB-0331F63AF623}|Core\\Core.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\core\\entities\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A53FD6E-95FF-4361-B9EB-0331F63AF623}|Core\\Core.csproj|solutionrelative:core\\entities\\cast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120B64F3-025E-454A-89E5-1D35CE4B2DB6}|MovieApplication\\MovieApplication.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\movieapplication\\views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{120B64F3-025E-454A-89E5-1D35CE4B2DB6}|MovieApplication\\MovieApplication.csproj|solutionrelative:movieapplication\\views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120B64F3-025E-454A-89E5-1D35CE4B2DB6}|MovieApplication\\MovieApplication.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\movieapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{120B64F3-025E-454A-89E5-1D35CE4B2DB6}|MovieApplication\\MovieApplication.csproj|solutionrelative:movieapplication\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A53FD6E-95FF-4361-B9EB-0331F63AF623}|Core\\Core.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\core\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A53FD6E-95FF-4361-B9EB-0331F63AF623}|Core\\Core.csproj|solutionrelative:core\\entities\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120B64F3-025E-454A-89E5-1D35CE4B2DB6}|MovieApplication\\MovieApplication.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\movieapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{120B64F3-025E-454A-89E5-1D35CE4B2DB6}|MovieApplication\\MovieApplication.csproj|solutionrelative:movieapplication\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD09538-5DE7-4239-AAED-BC39DC78AAE1}|Infrastructure\\Infrastructure.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\infrastructure\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD09538-5DE7-4239-AAED-BC39DC78AAE1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120B64F3-025E-454A-89E5-1D35CE4B2DB6}|MovieApplication\\MovieApplication.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\movieapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{120B64F3-025E-454A-89E5-1D35CE4B2DB6}|MovieApplication\\MovieApplication.csproj|solutionrelative:movieapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120B64F3-025E-454A-89E5-1D35CE4B2DB6}|MovieApplication\\MovieApplication.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\movieapplication\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120B64F3-025E-454A-89E5-1D35CE4B2DB6}|MovieApplication\\MovieApplication.csproj|solutionrelative:movieapplication\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD09538-5DE7-4239-AAED-BC39DC78AAE1}|Infrastructure\\Infrastructure.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\infrastructure\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD09538-5DE7-4239-AAED-BC39DC78AAE1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120B64F3-025E-454A-89E5-1D35CE4B2DB6}|MovieApplication\\MovieApplication.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\movieapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120B64F3-025E-454A-89E5-1D35CE4B2DB6}|MovieApplication\\MovieApplication.csproj|solutionrelative:movieapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD09538-5DE7-4239-AAED-BC39DC78AAE1}|Infrastructure\\Infrastructure.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\infrastructure\\data\\movieshopappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAD09538-5DE7-4239-AAED-BC39DC78AAE1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\movieshopappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120B64F3-025E-454A-89E5-1D35CE4B2DB6}|MovieApplication\\MovieApplication.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\movieapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{120B64F3-025E-454A-89E5-1D35CE4B2DB6}|MovieApplication\\MovieApplication.csproj|solutionrelative:movieapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD09538-5DE7-4239-AAED-BC39DC78AAE1}|Infrastructure\\Infrastructure.csproj|d:\\antra\\c\\antra_c_sharp\\movieapplication\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAD09538-5DE7-4239-AAED-BC39DC78AAE1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\MovieApplication\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MovieApplication\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\MovieApplication\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MovieApplication\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T20:22:48.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\MovieApplication\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MovieApplication\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\MovieApplication\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MovieApplication\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T20:22:47.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\MovieApplication\\Views\\Genre\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieApplication\\Views\\Genre\\Index.cshtml",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\MovieApplication\\Views\\Genre\\Index.cshtml",
+              "RelativeToolTip": "MovieApplication\\Views\\Genre\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T20:22:07.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Infrastructure\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\GenreService.cs",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Infrastructure\\Services\\GenreService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\GenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:13:47.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cast.cs",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Core\\Entities\\Cast.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Cast.cs",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Core\\Entities\\Cast.cs",
+              "RelativeToolTip": "Core\\Entities\\Cast.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:41:10.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Core\\Contract\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Contract\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Core\\Contract\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core\\Contract\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:47:42.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:52:17.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Core\\Contract\\Services\\IGenreService.cs",
+              "RelativeDocumentMoniker": "Core\\Contract\\Services\\IGenreService.cs",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Core\\Contract\\Services\\IGenreService.cs",
+              "RelativeToolTip": "Core\\Contract\\Services\\IGenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:11:08.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Core\\Contract\\Repositories\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "Core\\Contract\\Repositories\\IGenreRepository.cs",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Core\\Contract\\Repositories\\IGenreRepository.cs",
+              "RelativeToolTip": "Core\\Contract\\Repositories\\IGenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:07:24.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\MovieApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MovieApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\MovieApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MovieApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T20:22:27.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\MovieApplication\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "MovieApplication\\Controllers\\GenreController.cs",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\MovieApplication\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "MovieApplication\\Controllers\\GenreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:21:36.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Infrastructure\\Repositories\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\GenreRepository.cs",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Infrastructure\\Repositories\\GenreRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\GenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:08:30.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T19:46:41.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Core\\Entities\\Genre.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Genre.cs",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Core\\Entities\\Genre.cs",
+              "RelativeToolTip": "Core\\Entities\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:22:32.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\MovieApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "MovieApplication\\appsettings.json",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\MovieApplication\\appsettings.json",
+              "RelativeToolTip": "MovieApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T19:27:48.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\MovieApplication\\Program.cs",
+              "RelativeDocumentMoniker": "MovieApplication\\Program.cs",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\MovieApplication\\Program.cs",
+              "RelativeToolTip": "MovieApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:24:25.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MovieShopAppDbContext.cs",
+              "DocumentMoniker": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Infrastructure\\Data\\MovieShopAppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\MovieShopAppDbContext.cs",
+              "ToolTip": "D:\\Antra\\C\\Antra_C_Sharp\\MovieApplication\\Infrastructure\\Data\\MovieShopAppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\MovieShopAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T19:19:38.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

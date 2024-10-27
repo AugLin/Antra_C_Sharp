@@ -1,0 +1,15 @@
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\bin\Debug\net8.0\Core.deps.json
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\bin\Debug\net8.0\Core.runtimeconfig.json
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\bin\Debug\net8.0\Core.dll
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\bin\Debug\net8.0\Core.pdb
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\obj\Debug\net8.0\Core.sourcelink.json
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\obj\Debug\net8.0\Core.dll
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\obj\Debug\net8.0\refint\Core.dll
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\obj\Debug\net8.0\Core.pdb
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
+D:\Antra\C\Antra_C_Sharp\MovieApplication\Core\obj\Debug\net8.0\ref\Core.dll
